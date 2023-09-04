@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Pod Rank Extension",
+  "description": "Utility to get community insights, descriptions, and more about podcasts",
+  "version": "1.0",
+  "action": {
+    "default_popup": "hello.html",
+    "default_icon": "podrank_logo.png"
+  }
+}
